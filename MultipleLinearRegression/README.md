@@ -5,9 +5,10 @@
 - Evaluating model performance using R² score.
 
 ## Table of Contents
-- Introduction
-- Implementing the Multiple Linear Regression Model
-- Training and Testing the Model
-- Comparing with Scikit-Learn
+- Loading the Dataset
+- Exploring the Dataset
+- Splitting the Data into Training and Testing Sets
+- Implementing Linear Regression with Scikit-Learn
+- Implementing Custom Multiple Linear Regression
 - Visualizing the Results
 - Conclusion
