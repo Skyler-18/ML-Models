@@ -2,9 +2,9 @@
 
 Three complete implementations of gradient descent algorithms for linear regression:
 
-1. **Batch Gradient Descent** (`BatchGD.ipynb`)
-2. **Stochastic Gradient Descent** (`StochasticGD.ipynb`)
-3. **Mini-Batch Gradient Descent** (`MiniBatchGD.ipynb`)
+1. **Batch Gradient Descent** (`Batch Gradient Descent.ipynb`)
+2. **Stochastic Gradient Descent** (`Stochastic Gradient Descent.ipynb`)
+3. **Mini-Batch Gradient Descent** (`Mini-Batch Gradient Descent.ipynb`)
 
 ## 🎯 Key Features
 
