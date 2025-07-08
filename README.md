@@ -16,14 +16,14 @@ This repository contains end-to-end implementations of core Machine Learning alg
 Understanding the internals of ML algorithms helps build strong intuition. This project goes beyond using libraries — it's about **mastering the fundamentals** of Machine Learning by rebuilding them step by step.
 
 ## 📁 Folder Structure
-
+```
 ├── Linear_Regression/
 ├── Logistic_Regression/
 ├── PCA/
 ├── Gradient_Descent/
 ├── Regularization/
 └── README.md
-
+```
 
 ## 🔧 Tech Stack
 
